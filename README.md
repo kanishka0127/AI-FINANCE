@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinanceGuard - ML-Powered Financial Management Platform
 
 A comprehensive financial management platform built with React, TypeScript, and Supabase, featuring ML-powered analytics, fraud detection, and intelligent financial insights.
@@ -155,3 +156,6 @@ All data syncs in real-time across all connected clients.
 ## License
 
 MIT
+=======
+# AI-FINANCE
+>>>>>>> ee1811b27300be21d4bf3f95bc17e383fc4372f8
