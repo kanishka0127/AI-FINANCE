@@ -1,0 +1,76 @@
+{
+  "categories": {
+    "cat_salary": {
+      "name": "Salary",
+      "icon": "banknote",
+      "color": "#10B981",
+      "type": "income"
+    },
+    "cat_investment": {
+      "name": "Investment",
+      "icon": "trending-up",
+      "color": "#059669",
+      "type": "income"
+    },
+    "cat_freelance": {
+      "name": "Freelance",
+      "icon": "briefcase",
+      "color": "#34D399",
+      "type": "income"
+    },
+    "cat_groceries": {
+      "name": "Groceries",
+      "icon": "shopping-cart",
+      "color": "#3B82F6",
+      "type": "expense"
+    },
+    "cat_utilities": {
+      "name": "Utilities",
+      "icon": "zap",
+      "color": "#6366F1",
+      "type": "expense"
+    },
+    "cat_transportation": {
+      "name": "Transportation",
+      "icon": "car",
+      "color": "#8B5CF6",
+      "type": "expense"
+    },
+    "cat_entertainment": {
+      "name": "Entertainment",
+      "icon": "tv",
+      "color": "#EC4899",
+      "type": "expense"
+    },
+    "cat_healthcare": {
+      "name": "Healthcare",
+      "icon": "heart",
+      "color": "#EF4444",
+      "type": "expense"
+    },
+    "cat_shopping": {
+      "name": "Shopping",
+      "icon": "shopping-bag",
+      "color": "#F59E0B",
+      "type": "expense"
+    },
+    "cat_dining": {
+      "name": "Dining",
+      "icon": "coffee",
+      "color": "#F97316",
+      "type": "expense"
+    },
+    "cat_education": {
+      "name": "Education",
+      "icon": "book",
+      "color": "#14B8A6",
+      "type": "expense"
+    },
+    "cat_travel": {
+      "name": "Travel",
+      "icon": "plane",
+      "color": "#06B6D4",
+      "type": "expense"
+    }
+  }
+}
